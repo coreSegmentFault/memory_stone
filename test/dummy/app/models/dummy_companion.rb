@@ -1,0 +1,2 @@
+class DummyCompanion < ApplicationRecord
+end
